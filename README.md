@@ -1,3 +1,8 @@
 # WebServer + RestServer
 
-Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.
+First you need install Node.js...
+https://nodejs.org/en/download
+
+Open Api (You must inside to path ./api) :
+1- "npm install"
+2- "npm start"
